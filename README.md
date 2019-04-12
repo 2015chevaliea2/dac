@@ -9,5 +9,6 @@ L'ensemble du code et de la documentation du porjet se trouve dans le fichier `c
 
 Le set de données de base est `amazon_livres.txt`.
 Le set de test est `test_set.csv`.
+Les sets étant très volumineux, nous pouvons les transférer par filetransfert.
 
 Il y a aussi deux dossiers : `pre_processing` et `scoring`, ils comportent des fonctions utiles au traitement des données et au calul de performance. 
